@@ -7,3 +7,12 @@ div {
 #img-div {
     display: none;
 }
+
+.size {
+    height: 100px;
+    width: 100px;
+}
+
+#p-div {
+    word-wrap: break-word;
+}
